@@ -1,0 +1,30 @@
+body{
+    background-color: yellow;
+}
+
+h1{
+    background-color: red;
+    color: green;
+}
+
+a:link{
+    background-color: purple;
+    color: pink;
+}
+
+a:visited
+{
+    background-color: white;
+    color:blue;
+}
+
+a:hveer
+{
+    background-color: orange;
+    color: black;
+}
+
+#test
+{
+    color: red;
+}
